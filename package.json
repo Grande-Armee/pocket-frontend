@@ -1,6 +1,7 @@
 {
-  "name": "pocket-test",
+  "name": "@grande-armee/pocket-frontend",
   "version": "0.1.0",
+  "description": "Pocket Frontend",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
